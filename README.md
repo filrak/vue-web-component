@@ -1,5 +1,7 @@
 # storefront-gallery-vue
 
+Requires vue cli and vue cli service
+
 ## Project setup
 ```
 yarn install
